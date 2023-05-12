@@ -1,0 +1,2 @@
+# Helitrix-feedback
+Helitrixに関してご意見やご要望がございましたらこちらにご連絡ください。
